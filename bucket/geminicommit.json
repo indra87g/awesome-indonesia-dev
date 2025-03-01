@@ -5,7 +5,7 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tfkhdyt/geminicommit/releases/v0.2.6/download/geminicommit-v0.2.6-windows-amd64.zip",
+            "url": "https://github.com/tfkhdyt/geminicommit/releases/download/v0.2.6/geminicommit-v0.2.6-windows-amd64.zip",
             "hash": "bd566395d68b8002202d1f4c6ecb7bd0a47b486a"
         }
     },
@@ -18,7 +18,7 @@
     "autoupdate": {
         "architecture": {
             "64bit": {
-                "url": "https://github.com/tfkhdyt/geminicommit/releases/v$version/download/geminicommit-v$version-windows-amd64.zip"
+                "url": "https://github.com/tfkhdyt/geminicommit/releases/download/v$version/geminicommit-v$version-windows-amd64.zip"
             }
         }
     }
