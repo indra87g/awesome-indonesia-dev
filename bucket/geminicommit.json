@@ -5,8 +5,8 @@
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/tfkhdyt/geminicommit/releases/download/v0.2.6/geminicommit-v0.2.6-windows-amd64.zip",
-            "hash": ["sha256:c5d010658d7dd83c257be578604c6493e849ed6755086acb00d9435471729830"]
+            "url": "https://github.com/tfkhdyt/geminicommit/releases/download/v0.7.0/gmc-v0.7.0-windows-amd64.zip",
+            "hash": ["sha256:16de1b12093c20a860a1864d9a2a176fbf794204666ffe51a6d82fe70fdfa4c4"]
         }
     },
     "bin": "geminicommit.exe",
