@@ -2,7 +2,7 @@
     "version": "0.4.2",
     "description": "AI Git workflow automation — auto branch names, commit messages, releases, PRs, Trello integration.",
     "homepage": "https://github.com/rust142/geeto",
-    "license": "GPL-3.0",
+    "license": "MIT",
     "architecture": {
         "64bit": {
             "url": "https://github.com/rust142/geeto/releases/download/v0.4.2/geeto-windows.exe",
